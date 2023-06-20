@@ -4,6 +4,7 @@ this repository serves as a display of what I learned in Python so far. Most of 
 - The course "Introduction to Programming and Numerical Analysis" from the Department of Economics at Copenhagen University (Course Website: https://sites.google.com/view/numeconcph-introprog/home)
 - DataCamp online courses (Website: https://www.datacamp.com/)
 
+
 In Python I have mostly worked with the following packages: 
 - numpy
 - scipy
@@ -12,7 +13,9 @@ In Python I have mostly worked with the following packages:
 - yfinance
 - matplotlib
 
+
 I’m interested in furthering my knowledge. I’m currently learning more about different approaches when it comes to data science in Python and I am trying to get a better understanding of SQL using my DataCamp subscription.
+
 
 You can reach me via my LinkedIn-profile via the following link:
 https://www.linkedin.com/in/lukas-heidtmann
