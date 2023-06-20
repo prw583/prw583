@@ -1,6 +1,6 @@
 Hi, I’m Lukas (@prw583),
 
-this GitHub-account and its repositories down below serve as a display of what I learned in Python so far. Most of my knowledge so far stems from:
+this GitHub-account and its repositories down below serve as a display of what I learned in Python so far. Most of my knowledge stems from:
 - The course "Introduction to Programming and Numerical Analysis" from the Department of Economics at Copenhagen University (Course Website: https://sites.google.com/view/numeconcph-introprog/home)
 - DataCamp online courses (Website: https://www.datacamp.com/)
 
