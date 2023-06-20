@@ -5,12 +5,12 @@ this repository serves as a display of what I learned in Python so far. Most of 
 - DataCamp online courses (Website: https://www.datacamp.com/)
 
 In Python I have mostly worked with the following packages: 
--numpy
--scipy
--sympy
--pandas
--yfinance
--matplotlib
+- numpy
+- scipy
+- sympy
+- pandas
+- yfinance
+- matplotlib
 
 I’m interested in furthering my knowledge. I’m currently learning more about different approaches when it comes to data science in Python and I am trying to get a better understanding of SQL using my DataCamp subscription.
 
